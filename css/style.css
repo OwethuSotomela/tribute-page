@@ -1,0 +1,27 @@
+#img-div{
+    width: 100%;
+    display: block;
+    position: center;
+  }
+  #image{
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px;
+  }
+  #img-caption{
+    text-align: center;
+    }
+  header{
+    text-align: center;
+  }
+  body{
+    background-color: #EDF6FF;
+    box-shadow: 10px 10px 10px 10px;
+    margin-bottom: 2em;
+    border: 2px solid black;
+  }
+  .main{
+     margin-top: 5em;
+  }
